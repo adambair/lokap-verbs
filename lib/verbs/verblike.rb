@@ -25,10 +25,10 @@ module Verbs
   end
 end
 
-class String
-  include ::Verbs::Verblike::Access
-end
-
-class Symbol
-  include ::Verbs::Verblike::Access
-end
+# class String
+#   include ::Verbs::Verblike::Access
+# end
+#
+# class Symbol
+#   include ::Verbs::Verblike::Access
+# end

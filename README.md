@@ -1,3 +1,5 @@
+This patched version removes `.verb` monkey-patches on `String` and `Symbol`; I am not the maintainer, use at your own risk.
+
 # Verbs
 
 Conjugates most common english verbs for all persons, tenses, standard aspects, and modern moods (with active diathesis). Standard and exceptional spelling rules are obeyed.
